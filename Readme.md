@@ -16,7 +16,7 @@ O projeto está sendo criado junto com a RecketSeat para a Next Level Week, ser�
 - [ ] Aplicar Responsividade no conteudo
 - [ ] Concluir a Criação da Estrutura HTML
 - [ ] Concluir a Estilização CSS
-- [ ] Aplicação da linguagem JavaScript
+- [x] Aplicação da linguagem JavaScript
 - [ ] Teste Final 
 - [ ] Publicação do Projeto na versão final
 
