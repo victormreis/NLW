@@ -14,7 +14,7 @@ O projeto está sendo criado junto com a RecketSeat para a Next Level Week, ser�
 - [x] Criação da Pagina de Estilos (CSS)
 - [x] Versionamento do Repositorio com Git e GitHub
 - [ ] Aplicar Responsividade no conteudo
-- [ ] Concluir a Criação da Estrutura HTML
+- [x] Concluir a Criação da Estrutura HTML
 - [ ] Concluir a Estilização CSS
 - [x] Aplicação da linguagem JavaScript
 - [ ] Teste Final 
