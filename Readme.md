@@ -1,6 +1,6 @@
 # Projeto BeautySalon
 
-O projeto está sendo criado junto com a RecketSeat para a Next Level Week, será um Site focado em First mobile totalmente expansivo para adptar-se em qualquer tipo de tela.
+O projeto está sendo criado junto com a RecketSeat para a Next Level Week, será um Site focado em First mobile, responsivo para adptar-se em diferentes tipos de telas.
 
 **Skils Utilizadas:**
 
