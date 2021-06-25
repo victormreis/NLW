@@ -13,10 +13,10 @@ O projeto está sendo criado junto com a RecketSeat para a Next Level Week, ser�
 - [x] Criação da Estrutura Inicial focado em Mobile
 - [x] Criação da Pagina de Estilos (CSS)
 - [x] Versionamento do Repositorio com Git e GitHub
-- [ ] Aplicar Responsividade no conteudo
+- [x] Aplicar Responsividade no conteudo
 - [x] Concluir a Criação da Estrutura HTML
-- [ ] Concluir a Estilização CSS
+- [x] Concluir a Estilização CSS
 - [x] Aplicação da linguagem JavaScript
-- [ ] Teste Final 
-- [ ] Publicação do Projeto na versão final
+- [x] Teste Final 
+- [x] Publicação do Projeto na versão final
 
