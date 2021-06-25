@@ -31,7 +31,7 @@ function changeHeaderWhenScroll() {
     header.classList.remove('scroll')
   }
 }
-/* Testimonials Carousel slider */
+/* Testimonials Carousel slider Swiper */
 
 const swiper = new Swiper('.swiper-container', {
   slidesPerView: 1,
@@ -39,7 +39,13 @@ const swiper = new Swiper('.swiper-container', {
     el: '.swiper-pagination'
   },
   mousewheel: true,
-  keyboard: true
+  keyboard: true,
+  breakpoints: {
+    767: {
+      slidesPerView:2,
+      setWrapperSize: true
+    }
+  }
 })
 
 /* SCROLLREVEAL: Show elements when the user scroll the page*/
@@ -77,3 +83,7 @@ window.addEventListener('scroll', function () {
   changeHeaderWhenScroll()
   backToTop()
 })
+
+
+/* Active Menu Acording to Page Section */
+
